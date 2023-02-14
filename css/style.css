@@ -1,0 +1,14 @@
+.panda-bg-info{
+    background: #fceae8;
+}
+.btn-color{
+    background-image: linear-gradient(
+         #FF589B 0%, #FF136F 100%
+         );
+}
+.price-color{
+    color: #FF589B;
+}
+.gutter-color{
+    background: orchid;
+}
